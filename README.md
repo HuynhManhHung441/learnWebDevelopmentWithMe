@@ -7,6 +7,8 @@ Server-side refers to operations that are performed on the server using technolo
 #### Video
 [Frontend web development - a complete overview](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
 
+[Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
+
 [Vue.js Explained in 100 Seconds](https://www.youtube.com/watch?v=nhBVL41-_Cw)
 ### Back-end overview
 #### Video
