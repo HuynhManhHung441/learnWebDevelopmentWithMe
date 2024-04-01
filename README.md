@@ -15,3 +15,6 @@ Server-side refers to operations that are performed on the server using technolo
 ### Back-end overview
 #### Video
 [Backend web development - a complete overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
+
+### Database
+[SQL Explained in 100 Seconds](https://www.youtube.com/watch?v=zsjvFFKOm3c)
