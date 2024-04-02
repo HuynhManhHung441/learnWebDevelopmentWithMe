@@ -16,5 +16,8 @@ Server-side refers to operations that are performed on the server using technolo
 #### Video
 [Backend web development - a complete overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
 
+#### API
+[What Is REST API? Examples And How To Use It: Crash Course System Design #3](https://www.youtube.com/watch?v=-mN3VyJuCjM)
+
 ### Database
 [SQL Explained in 100 Seconds](https://www.youtube.com/watch?v=zsjvFFKOm3c)
