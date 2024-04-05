@@ -16,6 +16,8 @@
 [Backend web development - a complete overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
 
 #### API
+[API Gateway Explained Quickly](https://www.youtube.com/watch?v=WjCRRDKAduA&t=12s)
+
 [Top 6 Most Popular API Architecture Styles](https://www.youtube.com/watch?v=4vLxWqE94l4)
 
 [What Is REST API? Examples And How To Use It: Crash Course System Design #3](https://www.youtube.com/watch?v=-mN3VyJuCjM)
