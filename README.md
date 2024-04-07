@@ -11,6 +11,8 @@
 [All The JavaScript You Need To Know For React (More JS To Know)](https://www.youtube.com/watch?v=ACaT1Gfhe6I)
 
 [Vue.js Explained in 100 Seconds](https://www.youtube.com/watch?v=nhBVL41-_Cw)
+
+[Vue.js Course for Beginners](https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=253s)
 ### Back-end overview
 #### Video
 [Backend web development - a complete overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
