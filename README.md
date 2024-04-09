@@ -24,6 +24,8 @@
 
 [What Is REST API? Examples And How To Use It: Crash Course System Design #3](https://www.youtube.com/watch?v=-mN3VyJuCjM)
 
+[Oracle® Database
+Get Started with Java Development](https://docs.oracle.com/en/database/oracle/oracle-database/23/tdpjd/get-started-java-development.pdf)
 ### Database
 [SQL Explained in 100 Seconds](https://www.youtube.com/watch?v=zsjvFFKOm3c)
 
