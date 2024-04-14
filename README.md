@@ -16,6 +16,7 @@
 ### Back-end overview
 #### Video
 [Backend web development - a complete overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
+[Java in 4 Minutes!](https://www.youtube.com/watch?v=Q3CQ72tBdME)
 
 #### API
 [API Gateway Explained Quickly](https://www.youtube.com/watch?v=WjCRRDKAduA&t=12s)
