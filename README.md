@@ -31,3 +31,6 @@ Get Started with Java Development](https://docs.oracle.com/en/database/oracle/or
 [SQL Explained in 100 Seconds](https://www.youtube.com/watch?v=zsjvFFKOm3c)
 
 [Roadmap for Learning SQL](https://www.youtube.com/watch?v=yMqldbY2AAg)
+
+### Tools
+[5 Tools I’ve been using as a developer](https://www.youtube.com/shorts/ZinCbtVNVLQ)
