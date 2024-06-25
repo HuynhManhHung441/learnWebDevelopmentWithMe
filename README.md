@@ -34,3 +34,5 @@ Get Started with Java Development](https://docs.oracle.com/en/database/oracle/or
 
 ### Tools
 [5 Tools I’ve been using as a developer](https://www.youtube.com/shorts/ZinCbtVNVLQ)
+### OS
+[How to Fix Terminal Not Opening in Ubuntu - Can't Open Terminal - Terminal Not Working or Showing](https://www.youtube.com/watch?v=zvCfZZ0_K_A)
