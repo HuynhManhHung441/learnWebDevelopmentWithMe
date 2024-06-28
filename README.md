@@ -13,6 +13,8 @@
 [Vue.js Explained in 100 Seconds](https://www.youtube.com/watch?v=nhBVL41-_Cw)
 
 [Vue.js Course for Beginners](https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=253s)
+
+[USEFULL Github repos: JS 30](https://www.youtube.com/shorts/8Jn3Z8JQ_Mg)
 ### Back-end overview
 #### Video
 [Backend web development - a complete overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
