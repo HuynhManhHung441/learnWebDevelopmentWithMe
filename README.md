@@ -44,3 +44,6 @@ Get Started with Java Development](https://docs.oracle.com/en/database/oracle/or
 [What is RabbitMQ](https://www.youtube.com/watch?v=7rkeORD4jSw)
 ### Deployment
 [Docker Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=1M2EoEzwpQY)
+### Architecture
+[Event-Driven Architecture (EDA) vs Request/Response (RR)
+](https://www.youtube.com/watch?v=7fkS-18KBlw)
