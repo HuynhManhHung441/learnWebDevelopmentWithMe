@@ -29,6 +29,10 @@
 
 [Oracle® Database
 Get Started with Java Development](https://docs.oracle.com/en/database/oracle/oracle-database/23/tdpjd/get-started-java-development.pdf)
+
+#### C#
+[Every single feature of C# in 10 minutes](https://www.youtube.com/watch?v=J0FhV3dM80o)
+
 ### Database
 [SQL Explained in 100 Seconds](https://www.youtube.com/watch?v=zsjvFFKOm3c)
 
