@@ -1,5 +1,8 @@
 # learnWebDevelopmentWithMe
 ## Some concepts
+### Data structure
+[Top 7 Data Structures for Interviews Explained SIMPLY](https://www.youtube.com/watch?v=cQWr9DFE1ww)
+
 ### Front-end overview
 #### Video
 [Frontend web development - a complete overview](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
