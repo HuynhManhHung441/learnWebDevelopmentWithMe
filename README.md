@@ -11,6 +11,8 @@
 
 [Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
 
+[This is the Only Right Way to Write React clean-code - SOLID](https://www.youtube.com/watch?v=MSq_DCRxOxw)
+
 [All The JavaScript You Need To Know For React (More JS To Know)](https://www.youtube.com/watch?v=ACaT1Gfhe6I)
 
 [Vue.js Explained in 100 Seconds](https://www.youtube.com/watch?v=nhBVL41-_Cw)
