@@ -56,3 +56,8 @@ Get Started with Java Development](https://docs.oracle.com/en/database/oracle/or
 ### Architecture
 [Event-Driven Architecture (EDA) vs Request/Response (RR)
 ](https://www.youtube.com/watch?v=7fkS-18KBlw)
+
+### Design Pattern
+
+[8 Design Patterns EVERY Developer Should Know
+](https://www.youtube.com/watch?v=tAuRQs_d9F8)
