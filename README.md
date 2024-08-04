@@ -43,6 +43,8 @@ Get Started with Java Development](https://docs.oracle.com/en/database/oracle/or
 
 [Roadmap for Learning SQL](https://www.youtube.com/watch?v=yMqldbY2AAg)
 
+[Secret To Optimizing SQL Queries - Understand The SQL Execution Order](https://www.youtube.com/watch?v=BHwzDmr6d7s)
+
 ### Tools
 [5 Tools I’ve been using as a developer](https://www.youtube.com/shorts/ZinCbtVNVLQ)
 ### OS
