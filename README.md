@@ -63,3 +63,7 @@ Get Started with Java Development](https://docs.oracle.com/en/database/oracle/or
 
 [8 Design Patterns EVERY Developer Should Know
 ](https://www.youtube.com/watch?v=tAuRQs_d9F8)
+
+### Book
+
+[Github repo for developers: Book of secret knowledge!](https://youtube.com/shorts/mTlIxRCPPWk?si=lOfKbKu7mfb6NL4d)
