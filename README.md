@@ -35,6 +35,8 @@
 [Oracle® Database
 Get Started with Java Development](https://docs.oracle.com/en/database/oracle/oracle-database/23/tdpjd/get-started-java-development.pdf)
 
+[The Right Way To Build REST APIs](https://www.youtube.com/watch?v=CVBpYfPKGlE)
+
 #### C#
 [Every single feature of C# in 10 minutes](https://www.youtube.com/watch?v=J0FhV3dM80o)
 
