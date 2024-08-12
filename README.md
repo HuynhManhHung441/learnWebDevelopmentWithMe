@@ -7,6 +7,8 @@
 #### Video
 [Frontend web development - a complete overview](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
 
+[Understanding the V8 JavaScript Engine](https://www.youtube.com/watch?v=xckH5s3UuX4)
+
 [JavaScript in 4 Minutes!](https://www.youtube.com/watch?v=_UHFEwKgudU)
 
 [Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
