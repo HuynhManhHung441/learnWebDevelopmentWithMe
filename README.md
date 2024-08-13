@@ -5,6 +5,9 @@
 
 ### Front-end overview
 #### Video
+
+[24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!](https://www.youtube.com/watch?v=TzuWIHGFKCQ)
+
 [Frontend web development - a complete overview](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
 
 [Understanding the V8 JavaScript Engine](https://www.youtube.com/watch?v=xckH5s3UuX4)
