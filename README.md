@@ -4,7 +4,9 @@
 [Top 7 Data Structures for Interviews Explained SIMPLY](https://www.youtube.com/watch?v=cQWr9DFE1ww)
 
 ### Front-end overview
-#### Video
+#### JS
+
+[JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue](https://www.youtube.com/watch?v=eiC58R16hb8)
 
 [24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!](https://www.youtube.com/watch?v=TzuWIHGFKCQ)
 
