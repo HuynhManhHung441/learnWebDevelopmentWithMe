@@ -30,6 +30,8 @@
 
 ##### ReactJS
 - environment: how to install environment to code Reactjs on windows 11 into ChatGPT
+  ![image](https://github.com/user-attachments/assets/f2434a94-50cd-4880-ba47-fc496cbef4f3)
+
 
 
 ### Back-end overview
