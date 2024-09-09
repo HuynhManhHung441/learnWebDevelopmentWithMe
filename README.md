@@ -27,6 +27,11 @@
 [Vue.js Course for Beginners](https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=253s)
 
 [USEFULL Github repos: JS 30](https://www.youtube.com/shorts/8Jn3Z8JQ_Mg)
+
+##### ReactJS
+- environment: how to install environment to code Reactjs on windows 11 into ChatGPT
+
+
 ### Back-end overview
 #### Video
 [Backend web development - a complete overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
