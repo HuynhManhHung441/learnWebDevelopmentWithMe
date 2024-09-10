@@ -5,6 +5,7 @@
 
 ### Front-end overview
 #### JS
+[CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/watch?v=ciz2UaifaNM)
 
 [JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue](https://www.youtube.com/watch?v=eiC58R16hb8)
 
