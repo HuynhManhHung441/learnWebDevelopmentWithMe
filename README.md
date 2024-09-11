@@ -1,4 +1,7 @@
 # learnWebDevelopmentWithMe
+## Resource
+[Usefull Github repos: learn coding on actual projects!](https://www.youtube.com/shorts/0fffolCPa8A)
+
 ## Some concepts
 ### Data structure
 [Top 7 Data Structures for Interviews Explained SIMPLY](https://www.youtube.com/watch?v=cQWr9DFE1ww)
