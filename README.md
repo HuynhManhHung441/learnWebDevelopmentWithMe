@@ -95,3 +95,5 @@ Get Started with Java Development](https://docs.oracle.com/en/database/oracle/or
 ### Courses
 
 [FullStackOpen](https://fullstackopen.com/en/about)
+
+[The Odin Project](https://www.theodinproject.com/paths)
