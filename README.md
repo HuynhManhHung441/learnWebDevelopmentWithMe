@@ -50,4 +50,4 @@
 
 [What Is REST API? Examples And How To Use It: Crash Course System Design #3](https://www.youtube.com/watch?v=-mN3VyJuCjM)
 
-[Oracle® DatabaseAppAcademy](https://www.appacademy.io/course/app-academy-open)
+[AppAcademy](https://www.appacademy.io/course/app-academy-open)
