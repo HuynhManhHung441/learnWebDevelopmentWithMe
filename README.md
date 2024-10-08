@@ -91,3 +91,7 @@ Get Started with Java Development](https://docs.oracle.com/en/database/oracle/or
 ### Book
 
 [Github repo for developers: Book of secret knowledge!](https://youtube.com/shorts/mTlIxRCPPWk?si=lOfKbKu7mfb6NL4d)
+
+### Courses
+
+[FullStackOpen](https://fullstackopen.com/en/about)
