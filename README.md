@@ -51,3 +51,7 @@
 [What Is REST API? Examples And How To Use It: Crash Course System Design #3](https://www.youtube.com/watch?v=-mN3VyJuCjM)
 
 [AppAcademy](https://www.appacademy.io/course/app-academy-open)
+
+### Bootcamp
+
+[Frontend Web Development for Beginners](https://www.fullstackfoundations.com/courses/frontend-web-development-for-beginners)
