@@ -55,3 +55,7 @@
 ### Bootcamp
 
 [Frontend Web Development for Beginners](https://www.fullstackfoundations.com/courses/frontend-web-development-for-beginners)
+
+### Tools
+
+[JSON Editor Online - Tool to read JSON file](https://jsoneditoronline.org/)
