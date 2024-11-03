@@ -7,6 +7,10 @@
 [Top 7 Data Structures for Interviews Explained SIMPLY](https://www.youtube.com/watch?v=cQWr9DFE1ww)
 
 ### Front-end overview
+
+#### CSS
+[Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
+
 #### JS
 [CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/watch?v=ciz2UaifaNM)
 
