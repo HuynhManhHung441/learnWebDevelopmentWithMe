@@ -14,6 +14,8 @@
 #### JS
 [CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/watch?v=ciz2UaifaNM)
 
+[100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU&t=198s)
+
 [JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue](https://www.youtube.com/watch?v=eiC58R16hb8)
 
 [24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!](https://www.youtube.com/watch?v=TzuWIHGFKCQ)
