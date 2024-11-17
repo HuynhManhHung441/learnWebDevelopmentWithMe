@@ -12,6 +12,8 @@
 [Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
 
 #### JS
+[https://javascript.info/](The Modern JavaScript Tutorial)
+
 [CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/watch?v=ciz2UaifaNM)
 
 [100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU&t=198s)
