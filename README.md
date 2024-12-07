@@ -12,7 +12,10 @@
 [Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
 
 #### JS
-[https://javascript.info/](The Modern JavaScript Tutorial)
+
+[labex-labs/javascript-practice-labs](https://github.com/labex-labs/javascript-practice-labs)
+
+[The Modern JavaScript Tutorial](https://javascript.info/)
 
 [CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/watch?v=ciz2UaifaNM)
 
