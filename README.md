@@ -67,6 +67,10 @@
 
 [AppAcademy](https://www.appacademy.io/course/app-academy-open)
 
+### Git
+
+[How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
 ### Bootcamp
 
 [Frontend Web Development for Beginners](https://www.fullstackfoundations.com/courses/frontend-web-development-for-beginners)
