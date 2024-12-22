@@ -80,3 +80,7 @@
 [JSON Editor Online - Tool to read JSON file](https://jsoneditoronline.org/)
 
 Mobile simulator - responsive testing tool
+
+#### VSCode
+
+[How I Code INSANELY FAST in VS Code - Emmet Tutorial](https://www.youtube.com/watch?v=F_0rS5DDi3M)
