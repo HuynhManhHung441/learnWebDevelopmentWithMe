@@ -77,6 +77,8 @@
 
 [Frontend Web Development for Beginners](https://www.fullstackfoundations.com/courses/frontend-web-development-for-beginners)
 
+[Frontend Mentor](https://www.frontendmentor.io/learning-paths)
+
 ### Tools
 
 [JSON Editor Online - Tool to read JSON file](https://jsoneditoronline.org/)
