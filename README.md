@@ -92,3 +92,9 @@ Mobile simulator - responsive testing tool
 #### Practice
 
 [bigfrontend](https://bigfrontend.dev/problem)
+
+### Tips
+#### VSCode
+
+Open Terminal in VSCode: Ctrl + Shift + `
+
