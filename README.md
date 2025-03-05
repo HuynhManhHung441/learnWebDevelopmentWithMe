@@ -94,7 +94,7 @@ Mobile simulator - responsive testing tool
 [How I Code INSANELY FAST in VS Code - Emmet Tutorial](https://www.youtube.com/watch?v=F_0rS5DDi3M)
 
 #### Practice
-
+[projectlearn](https://projectlearn.io/)
 [bigfrontend](https://bigfrontend.dev/problem)
 
 ### Tips
