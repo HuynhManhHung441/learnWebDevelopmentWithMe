@@ -69,6 +69,10 @@
 
 [AppAcademy](https://www.appacademy.io/course/app-academy-open)
 
+### SQL
+
+[RunSQL](https://runsql.com/)
+
 ### Git
 
 [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
