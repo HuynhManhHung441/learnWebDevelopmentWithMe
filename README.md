@@ -89,6 +89,10 @@
 
 Mobile simulator - responsive testing tool
 
+#### AI
+
+[ZZZ Code AI](https://zzzcode.ai/)
+
 #### VSCode
 
 [How I Code INSANELY FAST in VS Code - Emmet Tutorial](https://www.youtube.com/watch?v=F_0rS5DDi3M)
@@ -96,6 +100,8 @@ Mobile simulator - responsive testing tool
 #### Practice
 [projectlearn](https://projectlearn.io/)
 [bigfrontend](https://bigfrontend.dev/problem)
+
+
 
 ### Tips
 #### VSCode
