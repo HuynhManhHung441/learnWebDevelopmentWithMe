@@ -1,5 +1,7 @@
 # learnWebDevelopmentWithMe
 ## Resource
+[QuickRef.ME](https://quickref.me/)
+
 [Usefull Github repos: learn coding on actual projects!](https://www.youtube.com/shorts/0fffolCPa8A)
 
 [Ishadeed articles](https://ishadeed.com/articles/)
