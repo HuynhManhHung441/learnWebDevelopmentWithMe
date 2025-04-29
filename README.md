@@ -16,6 +16,9 @@
 
 [Explore  MudBlazor](https://mudblazor.com/docs/overview)
 
+#### HTML
+[htmlreference.io](https://htmlreference.io/)
+
 #### CSS
 [Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
 
