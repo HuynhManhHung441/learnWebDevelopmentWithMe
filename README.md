@@ -113,6 +113,8 @@ Mobile simulator - responsive testing tool
 
 ##### FreeCodeCamp
 
+[My summary: Full Stack Developer Curriculum](https://www.notion.so/huynhmanhhung441/Certified-Full-Stack-Developer-Curriculum-2145063f491180e99711e462b3524e90?source=copy_link)
+
 What are the basic parts of a computer?
 - The first major component of a computer would be the motherboard. The motherboard holds all the memory and connectors that are needed to run the computer. It serves as the main circuit board for the computer.
 - CPU (Central Processing Unit)
