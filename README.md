@@ -99,6 +99,8 @@ Mobile simulator - responsive testing tool
 #### VSCode
  - Extension installed on VSCode:
    - Material Icon Theme
+   - Prettier - Code formatter
+   - EditorConfig for VS Code
 
 #### AI
 
