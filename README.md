@@ -96,6 +96,10 @@
 
 Mobile simulator - responsive testing tool
 
+#### VSCode
+ - Extension installed on VSCode:
+   - Material Icon Theme
+
 #### AI
 
 [ZZZ Code AI](https://zzzcode.ai/)
