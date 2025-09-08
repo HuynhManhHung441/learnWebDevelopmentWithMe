@@ -96,6 +96,8 @@
 
 Mobile simulator - responsive testing tool
 
+[JSON Editor Online - Tool to read JSON file](https://text-compare.com/)
+
 #### VSCode
  - Extension installed on VSCode:
    - Material Icon Theme
