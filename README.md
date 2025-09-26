@@ -24,6 +24,8 @@
 
 [learnhtmlcss](https://learnhtmlcss.online/app.html)
 
+[HEX, RGB & HSL color picker](https://www.fffuel.co/cccolor/)
+
 #### JS
 
 [labex-labs/javascript-practice-labs](https://github.com/labex-labs/javascript-practice-labs)
