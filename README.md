@@ -82,6 +82,8 @@
 
 [RunSQL](https://runsql.com/)
 
+[Deploy Database](https://supabase.com/docs). If you want to combine with AI, you can use supabase 
+
 ### Git
 
 [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
