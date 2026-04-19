@@ -1,5 +1,8 @@
 # learnWebDevelopmentWithMe
 ## Resource
+
+[Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
+
 [QuickRef.ME](https://quickref.me/)
 
 [Usefull Github repos: learn coding on actual projects!](https://www.youtube.com/shorts/0fffolCPa8A)
